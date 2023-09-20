@@ -3,7 +3,7 @@ layout: splash
 author_profile: true
 
 # Header
-excerpt: "Rui Cheng Lab <br/><br/> we study land surface processes and their feedbacks with climate using state-of-the-art remote sensing techniques and build advanced environmental sensors."
+excerpt: "Rui Cheng Lab <br/><br/> we study land surface processes and their feedbacks with climate using state-of-the-art remote sensing techniques, which motivates us building advanced environmental sensors."
 header:
     overlay_color: "#000"
     overlay_filter: "0.5"
