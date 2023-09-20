@@ -13,7 +13,7 @@ header:
 
 
 
-![image](/assets/images/headshot_RuiCheng.JPG){: .align-left} 
+![image](../assets/images/headshot_RuiCheng.JPG){: .align-left} 
 
 Rui Cheng 
 
