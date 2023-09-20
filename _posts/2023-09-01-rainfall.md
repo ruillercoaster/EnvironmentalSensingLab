@@ -5,7 +5,7 @@ categories:
   - research
 
 header:
-  teaser: "../assets/images/alaska.png"
+  teaser: ""
 
 ---
 <br/>
