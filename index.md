@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/IMG_5072_5x5.jpg
     title: "Climate Sensitivity"
   - image_path: /assets/images/waterfall_5x5.jpg
-    title: "Ground Hydrology"
+    title: "Ecohydrology"
 feature_row2:
   - image_path: /assets/images/sif_5x5.jpeg
     title: "Solar-Induced Fluorescence (SIF)"  
