@@ -6,7 +6,7 @@ permalink: /Members/
 header:
     overlay_color: "#000"
     overlay_filter: "0.5"
-    overlay_image: "/assets/images/IMG_5100.jpg" 
+    overlay_image: "assets/images/IMG_5100.jpg" 
 
 
 ---
