@@ -19,6 +19,8 @@ Rui Cheng
 
 Assistant Professor 
 
+[personal site](https://ruillercoaster.github.io)
+
 <br/><br/>
 
 
