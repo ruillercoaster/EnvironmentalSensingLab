@@ -14,7 +14,7 @@ header:
 feature_row:
   - image_path: /assets/images/alaska_5x5.png
     title: "Carbon Cycles"  
-  - image_path: /assets/images/img_5072_5x5.jpg
+  - image_path: /assets/images/IMG_5072_5x5.jpg
     title: "Climate Sensitivity"
   - image_path: /assets/images/waterfall_5x5.jpg
     title: "Ground Hydrology"
