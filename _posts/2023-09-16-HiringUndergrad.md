@@ -8,3 +8,7 @@ categories:
 
 ---
 Projects are available through the University of Minnesota UroP program. The deadline for Spring 2024 is Oct 9, 2023. 
+
+Other undergraduate research opportunities at the University of Minnestoa are available here, https://ugresearch.umn.edu/opportunities.
+
+I am happy to work with perspective undergraduate researchers on applications.
