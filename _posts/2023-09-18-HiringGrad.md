@@ -1,5 +1,5 @@
 ---
-title: "[PhD/MS students, Postdocs, Undergrad]"
+title: "PhD/MS students"
 related: true
 categories:
   - positions
