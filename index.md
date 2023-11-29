@@ -3,7 +3,7 @@ layout: splash
 author_profile: true
 
 # Header
-excerpt: "Rui Cheng Lab <br/><br/> we study land surface processes and their feedbacks with climate using state-of-the-art remote sensing techniques, which motivates us building advanced environmental sensors."
+excerpt: "Rui Cheng Lab <br/><br/> *To see the unseeable* <br/><br/> We study land surface processes and their feedbacks with climate using state-of-the-art remote sensing techniques, which motivates us building advanced environmental sensors and land surface models."
 header:
     overlay_color: "#000"
     overlay_filter: "0.5"
@@ -13,11 +13,11 @@ header:
 # Research projects
 feature_row:
   - image_path: /assets/images/alaska_5x5.png
-    title: "Carbon Cycles"  
+    title: "Land Surface Processes and Vegetation"  
   - image_path: /assets/images/IMG_5072_5x5.jpg
-    title: "Climate Sensitivity"
+    title: "Land-Atmosphere Feedbacks"
   - image_path: /assets/images/waterfall_5x5.jpg
-    title: "Ecohydrology"
+    title: "Data Assimilation and Inverse Modeling"
 feature_row2:
   - image_path: /assets/images/sif_5x5.jpeg
     title: "Solar-Induced Fluorescence (SIF)"  
@@ -30,7 +30,7 @@ feature_row2:
 
 
 ---
-## Research Topics
+## Modeling Topics
 {% include feature_row id = 'feature_row' %}
 
 ## Sensing Tools
