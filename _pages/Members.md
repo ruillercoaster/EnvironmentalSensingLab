@@ -1,5 +1,6 @@
 --- 
-layout: single
+layout: collection
+entries_layout: grid
 title: Members
 permalink: /Members/
 # Header
@@ -12,19 +13,37 @@ header:
 ---
 
 
+![Rui Cheng](../assets/images/headshot_RuiCheng.JPG){: .align-left width="100" } 
 
-![image](../assets/images/headshot_RuiCheng.JPG){: .align-left} 
-
-Rui Cheng 
-
-Assistant Professor 
-
-[personal site](https://ruillercoaster.github.io)
-
-<br/><br/>
+##### [Rui Cheng](https://ruillercoaster.github.io)
+PI
 
 
-# We are hiring!
-{: .text-center}
+
+![Helenrose Jorgensen](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"} 
+
+##### Helenrose Jorgensen
+
+Robotics MS
+
+
+
+
+![Robert Hairston](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"} 
+
+##### Robert Hairston
+
+Robotics MS
+
+
+![Lily Smith](../assets/images/tim-full-body-front.png){: .align-left  width="100"} 
+
+##### Lily Smith
+
+MIT UroP
+
+
+
+
 
 
