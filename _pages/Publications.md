@@ -12,8 +12,10 @@ header:
 In chronological order:
 
 
-<sub> [11] **Cheng, R.** (Accepted), Solar-Induced chlorophyll Fluorescence (SIF): Towards a Better Understanding of Vegetation Dynamics and Carbon Uptake in Arctic-Boreal Ecosystems. <em>Current Climate Change Reports</em> <sub>
+<sub> [12] **Cheng, R.** (Accepted), Solar-Induced chlorophyll Fluorescence (SIF): Towards a Better Understanding of Vegetation Dynamics and Carbon Uptake in Arctic-Boreal Ecosystems. <em>Current Climate Change Reports</em> <sub>
 
+<sub> [11] Pierrat, Z.A., Magney, T.S., **Cheng, R.**,  Maguire A., Wong C., Nehemy M., Rao M.P., Nelson S.E., Williams A.F., Grosvenor J.A.H., Smith K.R., Reblin J.S., Stutz J., Richardson A., Logan B.A., Bowling D.R., (2024) The biological basis for using optical signals to track evergreen needleleaf photosynthesis. <em>BioScience</em>, biad116, [https://doi.org/10.1093/biosci/biad116](https://doi.org/10.1093/biosci/biad116)</sub>
+     
 
 <sub> [10] Kunik, L., Raczka, B., Smith, K.R., Bowling, D., Frankenberg, C., Köhler, P., **Cheng, R.**, Goulden, M.L., Jung, M., & Lin, J.C. (2023), Satellite-based solar-induced fluorescence tracks seasonal and elevational patterns of photosynthesis in California’s Sierra Nevada mountains. <em>Environmental Research Letters</em>. [https://doi.org/10.1088/1748-9326/ad07b4](https://iopscience.iop.org/article/10.1088/1748-9326/ad07b4)<sub>
 
