@@ -11,27 +11,27 @@ header:
     caption: "Brooks Range, AK"
 
 # Research projects
-feature_row:
-  - image_path: /assets/images/alaska_5x5.png
-    title: "Land Surface Processes and Vegetation Dynamics"  
-  - image_path: /assets/images/IMG_5072_5x5.jpg
-    title: "Land-Atmosphere Feedbacks"
-  - image_path: /assets/images/waterfall_5x5.jpg
-    title: "Data Assimilation and Inverse Modeling"
-feature_row2:
-  - image_path: /assets/images/sif_5x5.jpeg
-    title: "Solar-Induced Fluorescence (SIF)"  
-    caption: "Keck"
-  - image_path: /assets/images/DataCube_5x5.png
-    title: "Hyperspectral Imaging" 
-    caption: "NEON"
-  - image_path: /assets/images/gear_5x5.png
-    title: "Instrumentation"
+# feature_row:
+#   - image_path: /assets/images/alaska_5x5.png
+#     title: "Land Surface Processes and Vegetation Dynamics"  
+#   - image_path: /assets/images/IMG_5072_5x5.jpg
+#     title: "Land-Atmosphere Feedbacks"
+#   - image_path: /assets/images/waterfall_5x5.jpg
+#     title: "Data Assimilation and Inverse Modeling"
+# feature_row2:
+#   - image_path: /assets/images/sif_5x5.jpeg
+#     title: "Solar-Induced Fluorescence (SIF)"  
+#     caption: "Keck"
+#   - image_path: /assets/images/DataCube_5x5.png
+#     title: "Hyperspectral Imaging" 
+#     caption: "NEON"
+#   - image_path: /assets/images/gear_5x5.png
+#     title: "Gridding/Instrumentation"
 
 
 ---
-## Environmental Sensing and Modeling
-{% include feature_row id = 'feature_row' %}
+<!-- ## Environmental Sensing and Modeling -->
+<!-- {% include feature_row id = 'feature_row' %} -->
 
-## Sensing Tools
-{% include feature_row id = 'feature_row2'%}
+<!-- ## Sensing Tools -->
+<!-- {% include feature_row id = 'feature_row2'%} -->
