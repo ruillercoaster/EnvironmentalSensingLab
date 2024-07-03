@@ -20,28 +20,52 @@ header:
 <sub>Lab PI  <sub>  
 <br/>
   
+
+![Xukun Zhu](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
+Xukun Zhu  
+<sub>PhD student (Fall 2024 - )   
+UMN BBSEM<sub>  
+<br/>
+
 ![Emily Anderson](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
 Emily Anderson  
 <sub>Undergraduate Researcher  
 UMN Physics<sub>  
-
+<br/>
 
 ![Daanish Hindustani](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
 Daanish Hindustani  
 <sub>Undergraduate Researcher  
 UMN Computer Science<sub>  
-
+<br/>
 
 ![Varadaraya Ganesh Shenoy](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
 Varadaraya Ganesh Shenoy  
 <sub>Undergraduate Researcher  
 UMN Computer Science<sub>  
-
+<br/>
 
 ![Baanee Singh ](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
 Baanee Singh  
 <sub>Undergraduate Researcher  
 UMN Computer Science<sub>  
+<br/>
+
+![Isabel O'Grady ](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
+Isabel O'Grady   
+<sub>Undergraduate Researcher  
+UMN Geography<sub>  
+<br/>
+
+![Tvisha Talwar ](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
+Tvisha Talwar  
+<sub>Highschool Intern<sub>  
+<br/>
+
+![Shubham Panchal ](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
+Shubham Panchal   
+<sub>Highschool Intern<sub>  
+<br/>
 
 <!-- 
 ![Robert Hairston](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"} 

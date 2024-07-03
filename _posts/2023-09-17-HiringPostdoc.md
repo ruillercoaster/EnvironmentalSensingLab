@@ -7,7 +7,7 @@ categories:
 
 
 ---
-I am happy to work with perspective Postdocs on fellowship applications. 
+Please to reach out about postdoc positions. I am happy to work with perspective Postdocs on fellowship applications. 
 
-University of Minnesota is a part "President's Postdoctoral Fellowship". The deadline to the fellowship is Nov 30, 2023. Find more here https://ppfp.umn.edu/.
+University of Minnesota is a part "President's Postdoctoral Fellowship". The deadline to the fellowship is in Nov. Find more here https://ppfp.umn.edu/.
 
