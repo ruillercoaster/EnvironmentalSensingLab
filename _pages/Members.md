@@ -28,9 +28,9 @@ UMN BBSEM<sub>
 <br/>
 
 
-![Xukun Zhu](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
+![Xukun Zhu](../assets/images/Xukun-Zhu.jpg){: .align-left  width="100"}
 Xukun Zhu  
-<sub>PhD student
+<sub>PhD Student    
 UMN BBSEM<sub>  
 <br/>
 
@@ -86,8 +86,8 @@ Helenrose Jorgensen
 ### Alumni
 
 ![Lily Smith](../assets/images/tim-full-body-front.png){: .align-left  width="100"} 
-Lily Smith  
-<sub>Undergraduate Researcher  
+Lily Smith      
+<sub>Undergraduate Researcher, UroP Awardee    
 MIT CEE<sub>  
 
 
