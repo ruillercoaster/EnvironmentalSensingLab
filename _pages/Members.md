@@ -21,9 +21,16 @@ header:
 <br/>
   
 
+![Leikun Yin](../assets/images/Leikun-Yin-400x400.png){: .align-left  width="100"} 
+[Leikun Yin](https://github.com/yin00406)    
+<sub>PhD Candidate, DSI-MnDRIVE Fellow    
+UMN BBSEM<sub>  
+<br/>
+
+
 ![Xukun Zhu](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
 Xukun Zhu  
-<sub>PhD student (Fall 2024 - )   
+<sub>PhD student
 UMN BBSEM<sub>  
 <br/>
 
