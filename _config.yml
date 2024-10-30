@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Rui Cheng Lab - To see the unseeable"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :  "Our lab studies land surface processes and their feedbacks with climate using state-of-the-art *remote sensing*, *process-based modeling*, and *machine learning*, which motivates us to build <b>*advanced environmental sensors*</b>, develop <b>*land surface models*</b>, and make <b>*real-world impact*</b>."
+  bio              :  "Our lab studies land surface processes and their feedbacks with climate using state-of-the-art *remote sensing*, *process-based modeling*, and *machine learning*, which motivates us to build <b>*advanced environmental sensors*</b>, develop <b>*land surface models*</b>, and make <b>*real-world impacts*</b>."
   location         : "UMN"
   email            :
   links:
