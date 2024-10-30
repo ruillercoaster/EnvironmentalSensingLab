@@ -36,13 +36,13 @@ UMN BBSEM<sub>
 
 ![Emily Anderson](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
 Emily Anderson  
-<sub>Undergraduate Researcher, CSE UroP Awardee      
+<sub>Undergraduate Researcher, competitive CSE UroP Awardee      
 UMN Physics<sub>  
 <br/>
 
 ![Daanish Hindustani](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
 Daanish Hindustani  
-<sub>Undergraduate Researcher, CSE UroP Awardee       
+<sub>Undergraduate Researcher, competitive CSE UroP Awardee       
 UMN Computer Science<sub>  
 <br/>
 
@@ -54,7 +54,7 @@ UMN Computer Science<sub>
 
 ![Baanee Singh ](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
 Baanee Singh  
-<sub>Undergraduate Researcher, CSE UroP Awardee       
+<sub>Undergraduate Researcher, competitive CSE UroP Awardee       
 UMN Computer Science<sub>  
 <br/>
 
