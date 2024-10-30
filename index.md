@@ -3,7 +3,7 @@ layout: splash
 author_profile: true
 
 # Header
-excerpt: "Rui Cheng Lab <br/><br/> _To see the unseeable_ <br/><br/> We study land surface processes and their feedbacks with climate using state-of-the-art *remote sensing*, *process-based modeling*, and *machine learning*, which motivates us building <b>*advanced environmental sensors*</b>, developing <b>*land surface models*</b>, and making <b>*real-world impact*</b>."
+excerpt: "Rui Cheng Lab <br/><br/> _To see the unseeable_ <br/><br/> We study land surface processes and their feedbacks with climate using state-of-the-art *remote sensing*, *process-based modeling*, and *machine learning*, which motivates us to build <b>*advanced environmental sensors*</b>, develop <b>*land surface models*</b>, and make <b>*real-world impact*</b>."
 header:
     overlay_color: "#000"
     overlay_filter: "0.5"
