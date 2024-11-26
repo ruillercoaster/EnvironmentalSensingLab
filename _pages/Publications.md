@@ -21,7 +21,7 @@ In chronological order:
 
 <sub> [9] **Cheng, R.**, Magney, T.S., Orcutt, E.L., Pierrat, Z., Köhler, P., Bowling, D.R., Bret-Harte, M.S., Euskirchen, E.S., Jung, M., Kobayashi, H., Rocha, A.V., Sonnentag, O., Walther, S., Zona, D., &Frankenberg, C.  (2022), Evaluating photosynthetic activity across Arctic-Boreal land cover types using solar-induced fluorescence. <em>Environmental Research Letters</em>. [https://doi.org/10.1088/1748-9326/ac9dae](https://iopscience.iop.org/article/10.1088/1748-9326/ac9dae)</sub>
 
-<sub> [8] **Cheng, R.**, Köhler, P., & Frankenberg, C. (2022), Impacts of Topography and Radiation on Temporal Upscaling of Instantaneous Solar-Induced Chlorophyll Fluorescence, <em>Agricultural and Forest Meteorology</em>. [[published version by request](https://authors.elsevier.com/a/1g0jqcFXJcsE7), [accepted preprint](ftp://fluo.gps.caltech.edu/XYZT_RuiPaper/AGMET_109197_topography_2022_ACCEPTED.pdf)]</sub>
+<sub> [8] **Cheng, R.**, Köhler, P., & Frankenberg, C. (2022), Impacts of Topography and Radiation on Temporal Upscaling of Instantaneous Solar-Induced Chlorophyll Fluorescence, <em>Agricultural and Forest Meteorology</em>. [https://doi.org/10.1016/j.agrformet.2022.109197](../../papers/AFM2022.pdf)</sub>
 
 <sub> [7] Byrne, B., Liu, J., Yi, Y., Chatterjee, A., Basu, S., **Cheng, R.**, Doughty, R., Chevallier, F., Bowman, K.W., Parazoo, N. C., Crisp, D., Li, X., Xiao, J., Sitch, S., Guenet, B., Deng, F., Johnson, M. S., Philip, S., Mcguire, P. C., and Miller, C. E. (2022), Multi-year observations reveal a larger than expected autumn respiration signal across northeast Eurasia. <em>Biogeosciences</em>. [https://doi.org/10.5194/bg-19-4779-2022](https://doi.org/10.5194/bg-19-4779-2022)</sub>
  
