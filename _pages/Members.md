@@ -19,11 +19,12 @@ header:
 [Rui Cheng](https://ruillercoaster.github.io)     
 <sub>Lab PI  <sub>  
 <br/>
-  
+
+Our lab has moved to Claremont McKenna College. I will continue supporting my students at UMN via funded research projects and fellowships. Interested students in 7Cs, especially those with research interests in remote sensing, climate, and computing, are welcome to contact me for potential research opportunities.
 
 ![Leikun Yin](../assets/images/Leikun-Yin-400x400.png){: .align-left  width="100"} 
 [Leikun Yin](https://github.com/yin00406)    
-<sub>PhD Candidate, DSI-MnDRIVE Fellow    
+<sub>PhD Candidate, DSI-MnDRIVE Fellow, Doctoral Dissertation Fellow  
 UMN BBSEM<sub>  
 <br/>
 
@@ -33,6 +34,25 @@ Xukun Zhu
 <sub>PhD Student    
 UMN BBSEM<sub>  
 <br/>
+
+![David Kong](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
+David Kong   
+<sub>Master student  
+UMN BBSEM<sub>  
+<br/>
+
+
+
+<!-- 
+![Robert Hairston](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"} 
+Robert Hairston  
+<sub>Robotics MS<sub>
+![Helenrose Jorgensen](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
+Helenrose Jorgensen  
+<sub>Robotics MS<sub> -->
+
+
+### Alumni
 
 ![Emily Anderson](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
 Emily Anderson  
@@ -73,17 +93,6 @@ Tvisha Talwar
 Shubham Panchal   
 <sub>Highschool Intern<sub>  
 <br/>
-
-<!-- 
-![Robert Hairston](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"} 
-Robert Hairston  
-<sub>Robotics MS<sub>
-![Helenrose Jorgensen](../assets/images/GoldyGopher-hero-560x490.jpg){: .align-left  width="100"}
-Helenrose Jorgensen  
-<sub>Robotics MS<sub> -->
-
-
-### Alumni
 
 ![Lily Smith](../assets/images/tim-full-body-front.png){: .align-left  width="100"} 
 Lily Smith      

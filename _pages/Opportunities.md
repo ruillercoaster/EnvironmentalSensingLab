@@ -10,3 +10,6 @@ header:
 
 ---
 
+Interested students in 7Cs, especially those with research interests in remote sensing, climate, and computing, are welcome to contact me for potential research opportunities.
+
+Interested postdoc applicants. I am happy to work with you on fellowship applications. 

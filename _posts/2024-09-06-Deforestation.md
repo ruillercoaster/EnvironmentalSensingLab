@@ -2,7 +2,7 @@
 title: "Forest Fragmentation and Degradation"
 related: true
 categories:
-  - research
+  - ecology
 
 header:
   teaser: ""

@@ -11,6 +11,7 @@ header:
 
 In chronological order:
 
+<sub> [13] Huang, J., ... **Cheng, R.**, ... Fisher. J.B., (2025), Remotely sensed high‐resolution soil moisture and evapotranspiration: Bridging the gap between science and society. <em>Water Resources Research</em>. [ https://doi.org/10.1029/2024WR037929]( https://doi.org/10.1029/2024WR037929) </sub>
 
 <sub> [12] **Cheng, R.** (2024), Solar-Induced chlorophyll Fluorescence (SIF): Towards a Better Understanding of Vegetation Dynamics and Carbon Uptake in Arctic-Boreal Ecosystems. <em>Current Climate Change Reports</em>, [https://doi.org/10.1007/s40641-024-00194-8](https://doi.org/10.1007/s40641-024-00194-8) </sub>
 

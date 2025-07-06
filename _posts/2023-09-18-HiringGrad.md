@@ -2,7 +2,7 @@
 title: "PhD/MS students"
 related: true
 categories:
-  - positions
+  # - positions
 
 
 

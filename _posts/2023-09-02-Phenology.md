@@ -1,6 +1,7 @@
 ---
-title: "Photosynthetic Phenology in an Evergreen Needleleaf Forest"
+title: "SENSING: Forest Ecology"
 related: true
+taxonomy: ecology
 categories:
   - research
 
